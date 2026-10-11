@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "14_常用指令/常用指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用指令"
+            }
+          },
+          {
+            "id": "c1a14c0302d942d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "13_项目在chatgpt豆包和本地的同步/操作.md",
                 "mode": "source",
                 "source": false
@@ -20,22 +34,9 @@
               "icon": "lucide-file",
               "title": "操作"
             }
-          },
-          {
-            "id": "1c714ad443d5e4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_剧情规划与章节合同/章节合同/00_全书440章_逐章钩子与关系合同_CURRENT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_全书440章_逐章钩子与关系合同_CURRENT"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "禁止",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13_项目在chatgpt豆包和本地的同步/操作.md",
+                "file": "14_常用指令/常用指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13_项目在chatgpt豆包和本地的同步/操作.md",
+                "file": "14_常用指令/常用指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13_项目在chatgpt豆包和本地的同步/操作.md",
+                "file": "14_常用指令/常用指令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,43 +203,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0fa613770195adda",
+  "active": "c1a14c0302d942d3",
   "lastOpenFiles": [
-    "14_常用指令/常用指令.md",
-    "07_剧情规划与章节合同/章节合同/00_全书440章_逐章钩子与关系合同_CURRENT.md",
+    "第三轮补充_人物正文场景审查.md",
+    "故事线漏洞审查报告_架构部分.md",
     "13_项目在chatgpt豆包和本地的同步/操作.md",
+    "第三轮补充_架构主题经济审查.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000002_R008_to_R009.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000001_R015_to_R016.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000002_R009.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R016.md",
+    "14_常用指令/常用指令.md",
+    "07_剧情规划与章节合同/HISTORY_REBUILD_2026-10-11/卷规划/01_十八位核心人物全书戏份与九节点投放_WORKING_2026-10-08.md",
+    "第二轮补充_架构深度审查.md",
+    "第二轮补充_人物正文深度审查.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000001_R014_to_R015.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R015.md",
+    "故事线漏洞审查报告_整合版.md",
+    "故事线漏洞审查报告_人物正文部分.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000002_R007_to_R008.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000001_R013_to_R014.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000002_R008.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R014.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000002_R006_to_R007.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000001_R012_to_R013.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000002_R007.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R013.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000002_R005_to_R006.md",
+    "08_正式正文与章节状态/已提交章节归档/DELTA_CHUID_000001_R011_to_R012.md",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R009.md.crswap",
+    "08_正式正文与章节状态/已提交章节归档/V12正文_CHUID_000001_R005.md.crswap",
     "07_剧情规划与章节合同/章节合同",
-    "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/正文索引/V12正文运行态_正式正文索引与产物命名_V5.md",
-    "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/正式DELTA/V12状态_CHUID_000001_R003_DELTA.md",
-    "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/CURRENT正文/V12正文_CHUID_000001_R003.md",
     "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/正文索引",
     "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/CURRENT正文",
     "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11/正式DELTA",
     "08_正式正文与章节状态/HISTORY_REBUILD_2026-10-11",
-    "人物资料库/05_重要配角/00_事故与受益链相关配角_CURRENT.md",
     "人物资料库/05_重要配角",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/顾晏深/顾晏深_最终人物母版_含曾用名顾砚秋_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/顾晏深/顾晏深_曾用名索引_顾砚秋.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/04_核心女性角色/程知遥/程知遥_CURRENT人物母版_2026-10-08.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/霍岑/霍岑_唯一终版人物圣经_全聊天整合资料库.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/陆知衡/陆知衡_完整资料库整合_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/谢闻铎/谢闻铎_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/闻淮止/闻惟止_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/03_核心男性角色/黎长聿/黎长聿_唯一终版人物圣经_全聊天整合资料库.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/裴沉川/裴沉川_唯一终版人物圣经_全聊天整合资料库.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/许泊言/许泊言_唯一整合人物圣经_含曾用名许聿衡_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/秦照野/秦照野_完整资料库整合_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/沈稷/沈稷_唯一终版人物圣经_全聊天整合资料库.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/祁慎修/祁慎修_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/段祁舟/段祈舟_正史资料库_截至2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/江叙澄/江叙澄_非女主关系生态补强_CANDIDATE_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/江叙澄/江叙澄_当前整合资料库_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/梁暮寒/梁暮寒_完整人设与深化增量_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/梁暮寒/梁暮寒_独立关系生态补强_CANDIDATE_2026-10-07.md",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/容既白/容既白_唯一整合深化资料库_截至2026-10-07.md",
     "人物资料库/HISTORY_REBUILD_2026-10-11/04_核心女性角色/程知遥",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/霍岑",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/顾晏深",
-    "人物资料库/HISTORY_REBUILD_2026-10-11/03_核心男性角色/黎长聿"
+    "人物资料库/HISTORY_REBUILD_2026-10-11/02_男主/霍岑"
   ]
 }
