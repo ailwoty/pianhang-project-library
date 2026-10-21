@@ -1,0 +1,41 @@
+{
+  "framework_version": "FRAME_R5",
+  "mode": "template",
+  "project_name": "【书名】",
+  "scale": {
+    "total_chapters": 100,
+    "volumes": 5,
+    "chapters_per_volume": 20,
+    "target_average_chars": 3000,
+    "target_total_chars": 300000
+  },
+  "relationship": {
+    "cp_count": 1,
+    "structure": "单CP",
+    "intimacy_nodes_per_cp": null,
+    "full_attendance": false
+  },
+  "style": {
+    "profile": "待作者配置",
+    "romance_ratio": null
+  },
+  "text_rules": {
+    "min_chars": 2700,
+    "max_chars": 3300,
+    "max_paragraph_chars": 150,
+    "ban_ascii_quotes": true,
+    "ban_dashes": false,
+    "banned_terms": [],
+    "allowed_terms": [],
+    "no_start_pronoun": [],
+    "max_short_run": 2,
+    "short_threshold": 40,
+    "body_markers_required": true
+  },
+  "quality": {
+    "target_each_dimension": 9.9,
+    "measured_scores": null,
+    "reader_validation": "NOT_TESTED",
+    "market_validation": "NOT_TESTED"
+  }
+}
