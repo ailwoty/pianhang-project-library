@@ -1,0 +1,142 @@
+<html style="margin:0;padding:0;">
+<title>言情小说项目通用框架：五层架构 × 单章流水线</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:"Microsoft YaHei","PingFang SC",sans-serif;background:#f7f8fb;color:#1f2430;padding:20px;}
+  .wrap{max-width:1060px;margin:0 auto;}
+  h1{font-size:22px;margin-bottom:4px;color:#16233f;}
+  .sub{font-size:13px;color:#6b7280;margin-bottom:16px;}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:#4b5563;margin-bottom:18px;background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:8px 12px;}
+  .legend span{display:inline-flex;align-items:center;gap:5px;}
+  .dot{width:10px;height:10px;border-radius:50%;display:inline-block;}
+  .sec-title{font-size:16px;font-weight:700;margin:26px 0 12px;color:#16233f;border-left:4px solid #d97706;padding-left:8px;}
+  .layer{display:flex;gap:10px;margin-bottom:10px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:10px 12px;align-items:stretch;}
+  .layer-label{flex:0 0 128px;display:flex;flex-direction:column;justify-content:center;background:#eef2f9;border-radius:8px;padding:8px 10px;text-align:center;}
+  .layer-label b{font-size:14px;color:#16233f;}
+  .layer-label i{font-size:11px;color:#6b7280;font-style:normal;margin-top:3px;}
+  .mods{flex:1;display:flex;flex-wrap:wrap;gap:8px;align-content:center;}
+  .mod{font-size:12.5px;padding:6px 10px;border-radius:6px;border:1px solid;line-height:1.35;}
+  .mod.hi{background:#fff7ed;border-color:#f97316;color:#9a3412;}
+  .mod.mid{background:#eff6ff;border-color:#3b82f6;color:#1e40af;}
+  .mod.lo{background:#f3f4f6;border-color:#9ca3af;color:#4b5563;}
+  .pipeline{display:flex;flex-wrap:wrap;gap:8px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px;align-items:center;}
+  .phase{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:8px;border-radius:8px;}
+  .phase.p1{background:#fef3c7;}
+  .phase.p2{background:#fee2e2;}
+  .phase.p3{background:#dcfce7;}
+  .phase.p4{background:#e0e7ff;}
+  .phase-tag{font-size:12px;font-weight:700;color:#7c2d12;flex:0 0 auto;}
+  .step{font-size:12px;padding:6px 9px;border-radius:6px;background:#fff;border:1px solid #d1d5db;line-height:1.35;flex:0 0 auto;max-width:190px;}
+  .step b{color:#16233f;}
+  .arr{font-size:14px;color:#9ca3af;font-weight:700;flex:0 0 auto;}
+  .foot{font-size:11.5px;color:#6b7280;margin-top:16px;line-height:1.6;}
+  .foot b{color:#374151;}
+</style>
+<div class="wrap">
+  <h1>言情小说项目通用框架</h1>
+  <div class="sub">提炼自《偏航》2026-10-21 全量盘点 · 五层架构 + 单章生产流水线</div>
+  <div class="legend">
+    <span><i class="dot" style="background:#f97316"></i>高频率：每章/每任务必用</span>
+    <span><i class="dot" style="background:#3b82f6"></i>中频率：按需触发</span>
+    <span><i class="dot" style="background:#9ca3af"></i>低频率：构建期一次性</span>
+  </div>
+
+  <div class="sec-title">一、五层架构（目录骨架）</div>
+
+  <div class="layer">
+    <div class="layer-label"><b>L0 入口治理</b><i>先读什么/谁说了算</i></div>
+    <div class="mods">
+      <div class="mod hi">00 总索引（唯一启动入口）</div>
+      <div class="mod hi">01 权威允许列表</div>
+      <div class="mod hi">04 任务前置执行指令</div>
+      <div class="mod hi">05 创作宪法（N条本质定义）</div>
+      <div class="mod lo">02 文件路由 / 03 使用说明</div>
+      <div class="mod lo">13 同步 / 14 常用指令</div>
+    </div>
+  </div>
+
+  <div class="layer">
+    <div class="layer-label"><b>L1 设定层</b><i>世界与人物</i></div>
+    <div class="mods">
+      <div class="mod mid">01 唯一上位母版</div>
+      <div class="mod lo">02 世界观 / 03 地理场景</div>
+      <div class="mod mid">04 组织势力（新场景时查）</div>
+      <div class="mod mid">05 核心机制/系统（出场时查）</div>
+      <div class="mod hi">人物资料库（每人唯一主档）</div>
+    </div>
+  </div>
+
+  <div class="layer">
+    <div class="layer-label"><b>L2 规划层</b><i>全书怎么排</i></div>
+    <div class="mods">
+      <div class="mod hi">06 N条CP线档案（战场+亲密转折）</div>
+      <div class="mod hi">07 章节排场合同（逐章表）</div>
+      <div class="mod mid">总剧情/核心事件档案/Boss链/信息释放</div>
+      <div class="mod mid">疑问裁决清单</div>
+    </div>
+  </div>
+
+  <div class="layer">
+    <div class="layer-label"><b>L3 生产层</b><i>正文产出留档</i></div>
+    <div class="mods">
+      <div class="mod hi">10 章节启动包/加载包</div>
+      <div class="mod hi">08 正文索引 / 定稿 / R版本归档</div>
+      <div class="mod hi">章节修改过程记录 + 错误禁令清单</div>
+    </div>
+  </div>
+
+  <div class="layer">
+    <div class="layer-label"><b>L4 运行+质量</b><i>不漂移/不重犯</i></div>
+    <div class="mods">
+      <div class="mod hi">09 状态快照（世界时钟游标）</div>
+      <div class="mod hi">09 事务日志 / 关系底账权限 / 实体注册</div>
+      <div class="mod hi">11 独立质量审核（五视角+成稿检查）</div>
+      <div class="mod lo">12 参考作品素材库</div>
+    </div>
+  </div>
+
+  <div class="sec-title">二、单章生产流水线（写每章走一遍，评审段可多轮循环）</div>
+  <div class="pipeline">
+    <div class="phase p1">
+      <span class="phase-tag">写前</span>
+      <div class="step"><b>① 五查</b><br>禁令清单→上章定稿→宪法文风→运行态→要素</div>
+      <div class="arr">→</div>
+      <div class="step"><b>② 读合同行</b><br>场景/主副线/暗线/钩子</div>
+      <div class="arr">→</div>
+      <div class="step"><b>③ 读启动包</b><br>权威约束编译</div>
+      <div class="arr">→</div>
+      <div class="step"><b>④ 读人物+权限</b><br>主档/知情/世界时钟</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑤ 列要素清单</b><br>角色≤3 冲突≤1 钩子≤1 新概念≤1</div>
+    </div>
+    <div class="phase p2">
+      <span class="phase-tag">写中</span>
+      <div class="step"><b>⑥ 起草 R001</b><br>按字数口径成稿</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑦ 硬规则校验</b><br>字数/引号/破折号/禁字/段落</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑧ 八轮自查</b><br>剧情→人物→节奏→语言→文风→场景→重复→总验收</div>
+    </div>
+    <div class="phase p3">
+      <span class="phase-tag">评审</span>
+      <div class="step"><b>⑨ 修改记录同步</b><br>触发→刀法→验证→评分</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑩ 读者视角评审</b><br>缺陷诊断→改后目标分→定稿</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑪ 定稿归档</b><br>R递增 旧版SUPERSEDED</div>
+    </div>
+    <div class="phase p4">
+      <span class="phase-tag">写后</span>
+      <div class="step"><b>⑫ 运行态四同步</b><br>正文索引+状态快照+事务日志+修改记录</div>
+      <div class="arr">→</div>
+      <div class="step"><b>⑬ 禁令登记</b><br>新错误入清单 下章必读</div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <b>三条支柱机制：</b>唯一权威（单母版+允许列表）· 版本化提交（R序号+DELTA+SUPERSEDED）· 章节合同制（先锁计划再写正文）。<br>
+    <b>新书启动：</b>简要设计 → 创作宪法 → 规模基线（卷×章×字数/爱情占比/CP分档/亲密节点保护）→ 母版+人物圣经 → 逐章排场表 → 空运行态 → 第一章启动合同 → 开跑流水线。<br>
+    示意：频率为偏航实战统计（2026-10-11 至 2026-10-21 任务记录），非精确计量。
+  </div>
+</div>
+</html>
