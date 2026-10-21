@@ -1,0 +1,549 @@
+{
+  "baseline_commit": "669521de2126237df26fb0c3a82a7bfb5bdb8ed9",
+  "source": "GitHub fetch_file utf-8; local text normalized final newline",
+  "read_count": 90,
+  "zip_entries": 85,
+  "zip_compare": "UTF-8 BOM/CRLF/path separators normalized; 85/85 equal to original template directory",
+  "files": [
+    {
+      "path": "01_通用框架文档/01_工业级缺口诊断报告.md",
+      "bytes": 4431,
+      "sha256": "073079b4c18c926d30e175c555b67ed00f1ca9960acfc7ad407663ac04fde550",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "01_通用框架文档/02_30万字通用化与爆款引擎诊断报告.md",
+      "bytes": 6526,
+      "sha256": "1b983cd57ec9434424665a8eedca8701f4fa41de2173f2fb9d93e11c48c5c31d",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "01_通用框架文档/框架可视化_五层架构与单章流水线.html",
+      "bytes": 7873,
+      "sha256": "f09bf36f0dd26791225d07e6b1d34f951d762ac6908b0c2679f75ea2ead0eeb3",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "01_通用框架文档/言情小说项目通用框架_2026-10-21.md",
+      "bytes": 19872,
+      "sha256": "75c48460f9321677d024ce51283ef15e5bf98030cabe1cb022efcfcd49fff300",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/00_总索引_CURRENT.md",
+      "bytes": 1370,
+      "sha256": "ea1e1b5c6e15d33851299d322a61012000d0dfb20769dae3b673ca05fdf59c4f",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/01_权威索引_CURRENT.md",
+      "bytes": 2027,
+      "sha256": "fa432f311c44df38bcd318f1941fab0b933ec2a0e46e8ba33a033643a762db97",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/02_新文件路由规则_CURRENT.md",
+      "bytes": 1723,
+      "sha256": "d452396c2351850976d0443e3653d263bd1fe3a18038909194c9e27fb47cbc03",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/03_项目使用说明_CURRENT.md",
+      "bytes": 953,
+      "sha256": "f9ef0893d9569744804c482dc13903c5ffb6838263153acaa9b5116682d03e8b",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/04_任务前置执行指令_持续更新.md",
+      "bytes": 5194,
+      "sha256": "614732d97fb1fe9552d92a4612378199ccb5a1f38986f275f01f20d4991a84ff",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_入口与治理/05_小说本质定义_强制锁定.md",
+      "bytes": 3665,
+      "sha256": "9bb256abbbf29ba641b8ed6dfcfc2ef4b3c99994096c3f2622b519af3dce7f93",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/00_项目资产清单_MANIFEST.md",
+      "bytes": 7447,
+      "sha256": "fad2a55ff3c8572737268abc62ce977fb27b34740c8fa47622ed9fd9707a0206",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/01_总设定与权威母版/CURRENT_MASTER/【书名】_唯一上位母版.md",
+      "bytes": 2073,
+      "sha256": "036cb6d514ec1c28ad02862ae7f0626d93001313289f4ecb28ddb24bbd0373c8",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/02_世界观与背景/README_放置说明.md",
+      "bytes": 415,
+      "sha256": "6c92278c232fd3e2d852cdf7c9c06981482caf23d1da85ea6940b10d088e9c73",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/03_地理与场景/README_放置说明.md",
+      "bytes": 439,
+      "sha256": "ffc52d41d12bbadd4dd600f1572d431d163b310791644db19306cf525b40604e",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/04_组织势力与社会结构/README_放置说明.md",
+      "bytes": 462,
+      "sha256": "ea6b1bca6137db8aabad3dca1ba3b03f22d5a60ef710d1060ebdfb1e76370ffa",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/05_核心机制与系统/README_放置说明.md",
+      "bytes": 486,
+      "sha256": "e81520102cb67a456bb73b84e5550d1298e9b052c4cc10ed69cf4fede327c5d7",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/06_人物关系与感情体系/CURRENT/00_N条爱情线_战场与亲密转折_CURRENT.md",
+      "bytes": 2532,
+      "sha256": "3c0f80eb87685e619e173fe5264fb6fe84635cd073edebdd9256048ade2bbb4d",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/06_人物关系与感情体系/CURRENT/感情梗库/README_放置说明.md",
+      "bytes": 368,
+      "sha256": "3b962a63e1b1d3180fa4f29dbe34ee3383c4e7a93609cb0c654a6b66e1cd62e6",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/07_剧情规划与章节合同/卷规划/README_放置说明.md",
+      "bytes": 324,
+      "sha256": "de48b646b237ec8fb035d143c72a16367596a8139ac120c0caf1fe7222fd92c7",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/07_剧情规划与章节合同/总剧情规划/README_放置说明.md",
+      "bytes": 634,
+      "sha256": "b0e7602a44bbf0c61f82394b505d34d98726d5bbbb8ce4383786700bb96cfba6",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/07_剧情规划与章节合同/疑问裁决清单/00_疑问裁决清单_CURRENT.md",
+      "bytes": 1012,
+      "sha256": "feaf6ecbba4622c092dd00bf5e1f9b40153261fe0f061b25ae0f3daf35c0aa09",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/07_剧情规划与章节合同/章节合同/00_全书逐章排场表_CURRENT.md",
+      "bytes": 2486,
+      "sha256": "af2e832f41eaff5e825c37117a8255844a0b2c7b6df45b149ad1fa72cebf877f",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/08_正式正文与章节状态/定稿正文/README_放置说明.md",
+      "bytes": 339,
+      "sha256": "3db855e14bc8cbacf14c58c1d7d93718d5274195f77f27580fb72bd32bcaa1c4",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/08_正式正文与章节状态/已提交章节归档/README_放置说明.md",
+      "bytes": 287,
+      "sha256": "6c792fcbc2f0e5f1707cfd076e683a7c06382d7d41c22999502f6945fc1565f7",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/08_正式正文与章节状态/正文索引/00_正文索引与产物命名_CURRENT.md",
+      "bytes": 1192,
+      "sha256": "d7d0336b4137b504c151ef97a653b8a3c483854e9984efa8287542c8b4eb07c0",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/08_正式正文与章节状态/章节修改过程记录/00_全书错误禁令清单_持续更新.md",
+      "bytes": 1294,
+      "sha256": "dd0024cabd0e2f23f83d225f742e9192b80ed531f084549ce8344e7df27264b1",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/08_正式正文与章节状态/章节修改过程记录/CHUID_000001_修改过程记录模板.md",
+      "bytes": 2110,
+      "sha256": "74ae487821b93eb556227d1ce773546f8a8dcf8ec590df5f3677d351f9d8bfcd",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/00_生产封板_唯一执行入口.md",
+      "bytes": 1287,
+      "sha256": "4f9cc7c57042f0c1af4bc96f30dde06636ca454b7a4c6f8f3dd18124491cc05a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/02_实体注册表.md",
+      "bytes": 1233,
+      "sha256": "5b6805151dae4ed9002bc5c22e5f1f91d337a5a3dfd13fb46debd1b24c56a676",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/03_事务提交日志.md",
+      "bytes": 979,
+      "sha256": "94909feec7d84328c179c93697ae89d458d2962eb25aa9268ff5a234b77ce02e",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/04_当前状态快照.md",
+      "bytes": 1696,
+      "sha256": "2cda17a6124d24b2ba850c0fef9b921ede322790014a666c9a9b01ebde5033fe",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/05_关系底账与权限.md",
+      "bytes": 1215,
+      "sha256": "4885005cdb5e6022f1df3c3bac55505f0229d6762337bd4a045f38983bdd3aa4",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/09_运行态与事务控制/07_开放问题与冲突登记.md",
+      "bytes": 960,
+      "sha256": "a3a32ed68730a6b42a4b7814d63eb82c9a1be4cc4d672f2bfff277a97cb995c7",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/10_章节启动包与生产接口/当前章节加载包/00_第一章_启动合同模板.md",
+      "bytes": 1218,
+      "sha256": "1f59a730109830a39f8235a3a71912972baf87d1228ab38043083fe812f11fd7",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/11_写作规范与质量审核/CURRENT规则/00_独立质量审核总规.md",
+      "bytes": 3350,
+      "sha256": "2f85564e5941b4f1968eeba56f663b2b23e306346f0cb49441cf68e65317f3e8",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/11_写作规范与质量审核/CURRENT规则/01_回归测试_设定一致性清单.md",
+      "bytes": 2399,
+      "sha256": "4b330294016b7226de95a9652ffa08f236dfb32740e36c7a29f96cdd644b5946",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/11_写作规范与质量审核/审核工单模板/00_质量审核工单模板.md",
+      "bytes": 1357,
+      "sha256": "e5511e53e0930ace12181fb431db344b932115a97bc0e0227f65c88e3d27ac72",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/11_写作规范与质量审核/检查与评分体系/README_放置说明.md",
+      "bytes": 348,
+      "sha256": "81a1d6b4b1409a0d98aad5dad3c6b49bbd49142bf09342451f4cb2657757101e",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/12_参考资料与素材/00_参考作品注册表.md",
+      "bytes": 986,
+      "sha256": "d4dae1f957906dfc1bc8a733638c0b61285d12eea56cdf397d7d6dee586d925a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/13_同步/00_Git工作流规范.md",
+      "bytes": 2101,
+      "sha256": "47d7bb112b417a155afaacf0ea443bd7491d66142394f8061a3ce1dd7e67a5e6",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/13_同步/README_放置说明.md",
+      "bytes": 453,
+      "sha256": "01a8b39f922266bf9722339d422df5b7628adae8ee0e98e39c171d323a30c850",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/14_常用指令/README_放置说明.md",
+      "bytes": 612,
+      "sha256": "1d14aeb86c36d6a47d8a09f401e571dabd55cc260e9a7133a203f83b1459fbd1",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/15_数据资产与机器可读/00_章节进度表.csv",
+      "bytes": 259,
+      "sha256": "fd2e8f03cb20a535691d024f0e20b463fbe0bbdb56ac37c7d1d86ec623e451da",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/15_数据资产与机器可读/01_实体图谱.csv",
+      "bytes": 585,
+      "sha256": "7f4b933cbce449dea679ea41834792fb6552d776a4585d282641d15d0a3c210d",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/15_数据资产与机器可读/README_放置说明.md",
+      "bytes": 814,
+      "sha256": "26b991b970394c516987a5dd0a33202be33645032bc718df31310d39e15df2cf",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/16_自动化与校验工具/README_放置说明.md",
+      "bytes": 975,
+      "sha256": "7bd13a4dd3c7ac8bf7a7739f019f22d08b04ce29fd28a01e6549de3c2168e74a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/16_自动化与校验工具/一致性回归检查.py",
+      "bytes": 3510,
+      "sha256": "05fab2d900e284a1d0cc33002067e6c21ef829ed4b2fcca8b62c95a3a75dde1d",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/16_自动化与校验工具/硬规则校验器.py",
+      "bytes": 6092,
+      "sha256": "c6c3d063869805258e7736876c36c3584648d916468614a8a2720f2abffe8ba4",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/16_自动化与校验工具/资产核对.py",
+      "bytes": 3947,
+      "sha256": "32d6302151e3d3dd666b4a021699a7fcc9d7045c62d4b5f7f5218b810dbc40f5",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/17_项目度量与仪表盘/00_进度仪表盘.md",
+      "bytes": 987,
+      "sha256": "bdf621eac41cd47d35a926e7a3ca37f98f02abfec393487105d06f3cd2f120a3",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/17_项目度量与仪表盘/README_放置说明.md",
+      "bytes": 472,
+      "sha256": "5fea5b58ea9d1d4261488e8bdaa0e753f7645871cd402ef860d409cd30058a7a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/18_发布与完结/00_平台发布检查清单.md",
+      "bytes": 1620,
+      "sha256": "25deb3538b3960fd6b84d700954d89fae961eab8de8f6a997d678b0bcbcee045",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/18_发布与完结/01_完结复盘模板.md",
+      "bytes": 1337,
+      "sha256": "29b83c84c19069e0bb048f8aeefe607c81b67221333a61d54eb9ec21057f4590",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/18_发布与完结/02_项目交接文档模板.md",
+      "bytes": 1939,
+      "sha256": "144dac29ab7862f2c854ce09cd02bf612c0294465c83a5dbf4493c0338cf2d7f",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/18_发布与完结/README_放置说明.md",
+      "bytes": 642,
+      "sha256": "2de4aa3a05e80c1e46983faf68d245d207326441d3605fc004db30e7793d9fb4",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/00_题材包总索引与使用说明.md",
+      "bytes": 2299,
+      "sha256": "ddeaf47c7c9f0d62d2397e1b0ee375b09d7c1220332c079c47db7dcabec7558a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/01_题材包模板.md",
+      "bytes": 1796,
+      "sha256": "3a3254a1733572af77a31337e0a25a26e7a65a182ed2952799b325933ff453fc",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/02_题材包_豪门虐恋追妻火葬场.md",
+      "bytes": 2853,
+      "sha256": "8c7cb7adf0bfb6c136a42551470436d20bc71508f46465ff7df9f4a602f3cf03",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/03_题材包_重生复仇马甲文.md",
+      "bytes": 2713,
+      "sha256": "b03c954f3e466acfba2cd42cc5be5238f105fdb00a26c903a85018b7611bda99",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/04_题材包_闪婚先婚后爱甜宠.md",
+      "bytes": 2824,
+      "sha256": "02b68ce058f1fcae282673c7368b1858055a545f2a780e4838c68ae1f097e552",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/05_题材包_萌宝助攻父母爱情.md",
+      "bytes": 2712,
+      "sha256": "6ace7e4c981b2d3009d1768c7b2a753c3ab88be1d7d2d2e3a47ec752fd6a3fd8",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/06_题材包_古言宫斗宅斗.md",
+      "bytes": 2623,
+      "sha256": "47473973988330647ed627fba8d1a01649ce233f2cb6022b5c4ecefb3272c0e6",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/07_题材包_年代文军婚.md",
+      "bytes": 2709,
+      "sha256": "385cd1590a6e781ec461add7e1910e4d86709ac2f966e4bf54a859e064d21d37",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/08_番茄平台适配规则.md",
+      "bytes": 2525,
+      "sha256": "fbce9c10acf8a25a5a8624386712d4bc3c58b2d9637f06e045ab42b73e7e5e96",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/09_黄金三章检查清单.md",
+      "bytes": 1623,
+      "sha256": "a6c8c4018714ee97007f64ce395e16c780fb2c5c04cbaf09a89a24b0930cc3f1",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/10_追读优化与章节留存清单.md",
+      "bytes": 1518,
+      "sha256": "f7f573a829b491ff1d4d6ef1c54745afadc73d937d88f5ad7bd75e00126906db",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/11_书名简介与标签模板.md",
+      "bytes": 1966,
+      "sha256": "d4d4fd4461a5dbfce93c489d515b552bf14fa8d6056fd1c39717ea0e1c4f90eb",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/19_题材包与爆款引擎/12_题材热度雷达.md",
+      "bytes": 1292,
+      "sha256": "a7e0e0899cae5a8c810271592a928f921d3cc16e9243ae229808bf4ab1127ff2",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/20_框架自迭代引擎/00_迭代循环说明.md",
+      "bytes": 2104,
+      "sha256": "3c61f7fedd63b7aae524b8fe6291e576fc482a701e4e3b4c1bc1d08efd6d7886",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/20_框架自迭代引擎/01_每10章框架回顾模板.md",
+      "bytes": 1157,
+      "sha256": "eada6c1ac5b345a4e272ba2fde9501ccdff1c8f27d83f9e3331e9f27375247b5",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/20_框架自迭代引擎/02_数据回流登记表.md",
+      "bytes": 1115,
+      "sha256": "7176ddcb5f73708745e6f91a26704cbc59af40800beeefd98c4d69d58c56c2a4",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/20_框架自迭代引擎/03_框架版本历史.md",
+      "bytes": 1806,
+      "sha256": "4f228cd53ca2e40ae49448af063b8d211fa0e337456da88d7ee0514661f7a127",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/00_爆款概率模型与诚实边界.md",
+      "bytes": 2040,
+      "sha256": "286978dbbf9a885e9c08ba7ef3d8037d16677826ca648af7aac02ac78a21b8fd",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/01_对标拆解工作流.md",
+      "bytes": 1909,
+      "sha256": "85a96c1a843daa9584e082ba838c2c6cd7e2bc6dcd9e0caba6d66bfeaed66d2c",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/02_开书可行性评分卡.md",
+      "bytes": 1849,
+      "sha256": "8503bf7ded9996f4d20be293852ea4422b414df5d3ed1d048038711be053fc87",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/03_黄金三章拉力测试.md",
+      "bytes": 1748,
+      "sha256": "e45f13c2f4fa25f8848d62cf5bbfbe10b3b1a310f8a744f39b602311fe652fe5",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/04_首秀7天观测协议.md",
+      "bytes": 1980,
+      "sha256": "5d6361d4b14f5a0d92817d0354907ce1b248be7701e81ec4e22c9b6d034927c6",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/05_多书组合与风险对冲.md",
+      "bytes": 1736,
+      "sha256": "814171fb2bcd5c1825a73d0eac49e48a568b751767976a81e326071818996389",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/21_爆款确定性引擎/06_完本率与留存目标管理.md",
+      "bytes": 1770,
+      "sha256": "b60ebdfc2c8eb56fbafa5480cfbc186468637d38c83ac6e70ef63b7489c9764a",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/CHANGELOG.md",
+      "bytes": 626,
+      "sha256": "9915dd535aa98277a73fbd9a127243c95a7dbd1353fb22cffbbde46fe7fa1659",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/README.md",
+      "bytes": 2604,
+      "sha256": "435e1e3e5a3e0d913dc1e943173f5e0b1bfaf0d674e8373c56efbf2b4e7840f5",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/README_新项目启动手册.md",
+      "bytes": 7588,
+      "sha256": "3b090f11053ae5d3de6645130ff48fd70a71f0d9d8f07d06d26d5e8e55083e4c",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/00_索引管理/00_核心人物档案总索引.md",
+      "bytes": 935,
+      "sha256": "c4a0ef8ed65fcf07d3c0d7bb9d152acb8fb926473630876c64560c1acd495f8e",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/00_索引管理/人物圣经模板.md",
+      "bytes": 2310,
+      "sha256": "e9650bec253b77f161743069902b7106a138a62823faef9a9a8f8e5c5f747b71",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/01_女主/README_放置说明.md",
+      "bytes": 359,
+      "sha256": "c58b54cb1ab93aa0a1b54e183c0c22ec45c5ebf9fd3ad93f0aa4d3cfe91e776b",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/02_男主/README_放置说明.md",
+      "bytes": 367,
+      "sha256": "14553877d6df50fe69cc20f321f3dd5c82b764ef3ebb180855edeedcf9825cfd",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/03_核心男性角色/README_放置说明.md",
+      "bytes": 234,
+      "sha256": "7dd62182022ce7905e0b25999247312b632a109993b5c362885a856eb4001572",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/04_核心女性角色/README_放置说明.md",
+      "bytes": 232,
+      "sha256": "d1f535822144b0fd873949b0b930eb523c867766fb3e75a29342a1e6effab0b3",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "02_新项目模板包/人物资料库/05_重要配角/README_放置说明.md",
+      "bytes": 341,
+      "sha256": "ae2e7801f1f3ba84af877143400d7e699aa4e8b4caafd808e9137439a46e9ec1",
+      "read_status": "FULL_TEXT_READ"
+    },
+    {
+      "path": "README_框架系统总览.md",
+      "bytes": 5425,
+      "sha256": "005b50d56a3f5b12ddcb0a290e5e31bbf38f22df571cd4eccf93eb1ea2c9a6e0",
+      "read_status": "FULL_TEXT_READ"
+    }
+  ]
+}
