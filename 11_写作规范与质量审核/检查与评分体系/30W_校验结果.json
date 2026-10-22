@@ -1,0 +1,288 @@
+{
+  "checks": [
+    {
+      "check": "96 unique chapters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "39 frozen and 57 planned",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "budget exact 300000",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "frozen count actual",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "remaining budget",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "future chapter limits",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "six contiguous volumes",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "at most three core",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "one conflict hook and max one concept",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "102 unique intimacy functions",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "17 CP six functions",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "node scene cast",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no future node declared happened",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no fiction completion from anchor",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "max four nodes scene",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "51 major battle functions",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "132 source functions mapped",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "17 endings unchanged types",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "permanent BE five",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "endings assigned cast",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V3 17 effective assignments",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V3 at least four leads",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V4 17 effective assignments",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V4 at least four leads",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V5 17 effective assignments",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V5 at least four leads",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V6 17 effective assignments",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "V6 at least four leads",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Cheng never chapter lead",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "CH040 pays tomorrow",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "protected paths no edits",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "protected SHA identical",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "exists 07_剧情规划与章节合同/章节合同/00_全书96章_排场与关系合同_30万字版_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "exists 06_人物关系与感情体系/CURRENT/01_102节点逐项落章_30万字_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "exists 07_剧情规划与章节合同/总剧情规划/00_新基线_机器数据.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "contract 96 rows",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "ledger 102 rows",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no stale future coordinates 07_剧情规划与章节合同/总剧情规划/03_Boss链_责任受益与卷级清算_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no active ten volume 07_剧情规划与章节合同/总剧情规划/03_Boss链_责任受益与卷级清算_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no stale future coordinates 07_剧情规划与章节合同/总剧情规划/04_440章信息释放与悔恨节点_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no active ten volume 07_剧情规划与章节合同/总剧情规划/04_440章信息释放与悔恨节点_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "private public separation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "suspension action split",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "medical handoff precedes private",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no Meng answer",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "authority 00_总入口与导航/00_偏航项目_总索引_CURRENT.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "authority 00_总入口与导航/01_偏航项目_CANON_CURRENT权威索引.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "authority 00_偏航项目_任务前置执行指令_持续更新.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "current root-relative links",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "positive_count": 49,
+  "passed": 49,
+  "failed": [],
+  "negative_cases": [
+    {
+      "case": "wrong budget",
+      "rejected": true
+    },
+    {
+      "case": "missing chapter",
+      "rejected": true
+    },
+    {
+      "case": "four actors",
+      "rejected": true
+    },
+    {
+      "case": "missing intimacy",
+      "rejected": true
+    },
+    {
+      "case": "future declared happened",
+      "rejected": true
+    },
+    {
+      "case": "duplicate ending changed",
+      "rejected": true
+    },
+    {
+      "case": "lost source function",
+      "rejected": true
+    },
+    {
+      "case": "node wrong cast",
+      "rejected": true
+    }
+  ],
+  "negative_rejected": 8,
+  "scope": "planning consistency, arithmetic, references and frozen tree; not prose or reader evaluation"
+}

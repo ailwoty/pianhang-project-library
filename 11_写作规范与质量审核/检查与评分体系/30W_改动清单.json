@@ -1,0 +1,671 @@
+{
+  "baseline": "30W_R001",
+  "source_commit": "2873c9bb25c0710ae8a988f348bd8653b7d86261",
+  "scope": "only current planning/governance and source archives; no prose mutations",
+  "edited": [
+    {
+      "path": "00_偏航项目_任务前置执行指令_持续更新.md",
+      "operation": "modified",
+      "old_blob": "d2f6b26589902ea84a716452c2ff4a2c0ec1ad1a",
+      "utf8_sha256": "a5db47854ac3578670dec746320a59da3f521a87ed8474b0e98273dbb363d350"
+    },
+    {
+      "path": "00_总入口与导航/00_偏航项目_总索引_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "49b78b97d4374fa604501b55ce295bbdadec1b85",
+      "utf8_sha256": "a5b9c67d1626667e0fd3670709d4f3caa7a6bd305a12eb2fb1e9de242d1f4ac6"
+    },
+    {
+      "path": "00_总入口与导航/01_偏航项目_CANON_CURRENT权威索引.md",
+      "operation": "modified",
+      "old_blob": "ccf2fc6b70e575fb6e9d49480c39193d3f99986b",
+      "utf8_sha256": "d2833f9d8f854e8b87cb0536308161bd1febffea70f6f96c8e5318c7e15269ed"
+    },
+    {
+      "path": "00_总入口与导航/03_偏航项目_最终项目使用说明_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "f75abf8492f3d8e7d2bd52a5c4f6e396608ddaea",
+      "utf8_sha256": "7369ab390e5a93831fdf9dbbf46978d607802853d09eac85d508486bbdc4fcbf"
+    },
+    {
+      "path": "01_总设定与权威母版/CURRENT_MASTER/所有人都在为她偏航_V12_FINAL_唯一终版设定文档.md",
+      "operation": "modified",
+      "old_blob": "3d1acd4f1df892a9565f78b42906105b79c9fd4c",
+      "utf8_sha256": "bf027a83991bdb28c33896caf331463cd130a109b9f9419fdacc6f38a64cdbcb"
+    },
+    {
+      "path": "04_组织势力与社会结构/CURRENT/00_曜京圈层势力总棋盘_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "329e7e8d54e1427b821e91401890bc903caa3270",
+      "utf8_sha256": "d3260e7c10e274ea69ef94f9b4d73dc9d3c5f2d43b8fc3ca6da6a0bf53436240"
+    },
+    {
+      "path": "05_偏航系统与协议/CURRENT/00_偏航协议生产应用_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "fcdc6be060e5e96d4a14b58af4e17d9832baa2ed",
+      "utf8_sha256": "a5cda224fc82832fd9ac50fdaeaee0f082672ee15ac7dbca379485f242855ef4"
+    },
+    {
+      "path": "06_人物关系与感情体系/CURRENT/00_十七条爱情线_战场与亲密转折_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "c4ffaa6c622d2fe102881f73ccb395d5cbab9a69",
+      "utf8_sha256": "4c95ba2f669d10c7595ecf615453fba8df313707d3ef59d44de0b144138f967b"
+    },
+    {
+      "path": "06_人物关系与感情体系/CURRENT/01_102节点逐项落章_30万字_CURRENT.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "17855aa97dd639d83e6b373247603b93b271924b29eafec30e592c525cea3ead"
+    },
+    {
+      "path": "07_剧情规划与章节合同/卷规划/00_十卷阶段章节合同编译_WORKING_2026-10-08.md",
+      "operation": "modified",
+      "old_blob": "cd19ee6ca36be5816dfae1b5ef1663c28cf621af",
+      "utf8_sha256": "6bbc3aa96eb4f86f5d8ac11d79a0622e320738895fc6a909d7df778f67e57bac"
+    },
+    {
+      "path": "07_剧情规划与章节合同/卷规划/01_六卷96章_读者体验与字数预算_CURRENT.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "21305ac3b11cde250872559c4c590ba2b9ec971e2b7d52dd59b94f74b1cea877"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/00_新基线_机器数据.json",
+      "operation": "modified",
+      "old_blob": "3bf86e20f96520fdc6fd9eaa2da3597b07bd234b",
+      "utf8_sha256": "b391f99d8279d47f2171876f24c700c7348bce479e2dbc92b9cac92beaa3edbe"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/00_新基线_机器数据_使用说明.md",
+      "operation": "modified",
+      "old_blob": "5b0c2d5c9185fb0a7a1afbfc60313bf38968e245",
+      "utf8_sha256": "ddf7f2ca2e5137a4ed4d390925ec335de17e3ef31598a9ca498644164d1f5363"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/01_偏航事实驱动剧情重构_WORKING_2026-10-08.md",
+      "operation": "modified",
+      "old_blob": "20607d54aad304662c21718645decc7645733f84",
+      "utf8_sha256": "104a3a7303c43c0848656b6ad4cd1bc13a62342ff1b3ab3ad6b7f1efaf3a1153"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/03_Boss链_责任受益与卷级清算_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "b397708b0176b3fa3ec48a87a5a28de958baa70e",
+      "utf8_sha256": "ad3194ac9cd074ab8ddbcecf2d235caa67df400de7abae41a19f16ce95b9fa11"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/04_440章信息释放与悔恨节点_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "89c9d30e933a81b475c4a391e1752a7f2d7d1da9",
+      "utf8_sha256": "8535608e434a92bc6778da50eb5bbdf1647e4db05f8965de27ed8abaed397c75"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/05_132至96章_功能迁移台账_CURRENT.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "383e6761c1bd807b7fb06713f917293dc0c684d66599dab6cfec5d8579becdcf"
+    },
+    {
+      "path": "07_剧情规划与章节合同/总剧情规划/六年前事故_全项目统一档案_2026-10-11.md",
+      "operation": "modified",
+      "old_blob": "9b8dd91be7240249c7f3f488d77bf10379e94a03",
+      "utf8_sha256": "7c7a280dfdee1f3aa52a0b76008eb07a54005482c86fa9ba2c47ff349daed1f9"
+    },
+    {
+      "path": "07_剧情规划与章节合同/章节合同/00_全书132章_排场与关系合同_40万字版_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "57b3423835767576b7a03f544412ce8871bf01d1",
+      "utf8_sha256": "1364856f94502cdea982d2b6cfcbcc0ec236b471b74f53551de19baaedc7a4e0"
+    },
+    {
+      "path": "07_剧情规划与章节合同/章节合同/00_全书440章_逐章钩子与关系合同_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "9fb2551ed19458b8998d44978d01ed068c01b7c4",
+      "utf8_sha256": "370e97f1d791f6b6da7b33c587c04686b7066b9602f73c966163073b9bf79dc4"
+    },
+    {
+      "path": "07_剧情规划与章节合同/章节合同/00_全书96章_排场与关系合同_30万字版_CURRENT.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "28a79a92ce52418cdd3cfab7cdadcce88d6d64f8fdb2c97a4f7bc85ee70d3b09"
+    },
+    {
+      "path": "08_正式正文与章节状态/正文索引/V12正文运行态_正式正文索引与产物命名_V5.md",
+      "operation": "modified",
+      "old_blob": "23b29c82941afd561a3b9ac5f7a65eb64e183646",
+      "utf8_sha256": "8f42fc9cbc4265efcfc91f37192b4314a5ff5cd934cf2c36a577eb691d636207"
+    },
+    {
+      "path": "09_V12运行态与事务控制/00_CURRENT控制层/所有人都在为她偏航_V12正文前最终生产封板_V5_唯一执行入口.md",
+      "operation": "modified",
+      "old_blob": "c82daaf5fdcf587f1dd7fccfd3f5000227772a33",
+      "utf8_sha256": "368d4c9079e346e35f42af11e8eb15a2fb5e91f9973391e9d2cf69800714f821"
+    },
+    {
+      "path": "09_V12运行态与事务控制/03_事务与提交日志/V12正文运行态_事务提交日志_V5.md",
+      "operation": "modified",
+      "old_blob": "2bd49ab91344bca49ca88521ad091b81f1ee5161",
+      "utf8_sha256": "b2746e3ef3944f85ba9b8905b38f9a128eb1549e41914964ccadc309d45e4837"
+    },
+    {
+      "path": "09_V12运行态与事务控制/04_快照与世界时钟/V12正文运行态_当前状态快照_V5.md",
+      "operation": "modified",
+      "old_blob": "f9a9c010344b3d5310531c1a628ba57886cbe436",
+      "utf8_sha256": "36bb87a38a163ead014e5e9d9bd002c14bb0c991f8071f3a210b3da95fd542b4"
+    },
+    {
+      "path": "09_V12运行态与事务控制/05_事实信息关系组织账/V12正文运行态_事实真值与知识图谱_V5.md",
+      "operation": "modified",
+      "old_blob": "c98682ccc45b752ba9a5c14bb31d3ee3636d3ab2",
+      "utf8_sha256": "e99ec613af2f3ec99204608eae31df37fa59c947b503df938623a5d53275e59c"
+    },
+    {
+      "path": "09_V12运行态与事务控制/05_事实信息关系组织账/V12正文运行态_关系历史底账与当前权限_V5.md",
+      "operation": "modified",
+      "old_blob": "4a79d5709b4499f39df81fc72d7b5214d8a3e6c5",
+      "utf8_sha256": "666605b6795e62ba07439951f40a321b11c33a5dad42f7408adb7e0b5365be48"
+    },
+    {
+      "path": "09_V12运行态与事务控制/05_事实信息关系组织账/V12正文运行态_情报图与可见度总账_V5.md",
+      "operation": "modified",
+      "old_blob": "464568972d6e5514f2abbbf2f2919415e24f8d51",
+      "utf8_sha256": "2501ddf55a72ec845eed74506d792be89f72efd05646c5d0b260f2bf18440457"
+    },
+    {
+      "path": "09_V12运行态与事务控制/06_事件过程资源舆论账/V12正文运行态_世界事件池_分支_余波账_V5.md",
+      "operation": "modified",
+      "old_blob": "d3a531361b8a13cdbb0e0db85fd6ca4a3cdfc4d8",
+      "utf8_sha256": "b58ae7c243de7470800d3aa3a59487554f2c8b73c12bc2189f55e9495eb81f56"
+    },
+    {
+      "path": "09_V12运行态与事务控制/07_开放问题与冲突/V12正文运行态_开放问题与冲突登记_V5.md",
+      "operation": "modified",
+      "old_blob": "3c354e68b717485c9043764f9aa28e4e903dd321",
+      "utf8_sha256": "f0fd4324dc05b6ad8791418de9505817ce29d624fc615c3b2cfc01d929ca7441"
+    },
+    {
+      "path": "10_正文启动包与生产接口/当前章节加载包/00_新故事线第一章_启动合同_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "5bd1dfd91f19433416520807e8a53a558742ac55",
+      "utf8_sha256": "e21a8671df4f4e6cdeb365008f98a34e91d3d297c4e8f43a24575278a13cd97d"
+    },
+    {
+      "path": "10_正文启动包与生产接口/当前章节加载包/01_CH040_明天与来源_30万字启动合同_CURRENT.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "241b09676726b482083fce77980f59400f615bf03426ab2c4d2871ee350da995"
+    },
+    {
+      "path": "11_写作规范与质量审核/检查与评分体系/30W_冻结正文与预算清单.json",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "d03d0cf690bf4a0d4d6ed335ea32d0ab2efc509a1a2258611df42d65f9855b8c"
+    },
+    {
+      "path": "11_写作规范与质量审核/检查与评分体系/30W_旧文件与未改动边界.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "5bffff0b571ce01a860fe5940036fc6071c3e206957f52876c371cfebc873bef"
+    },
+    {
+      "path": "11_写作规范与质量审核/检查与评分体系/30W_校验结果.json",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "13bc4eb061b00c5a6e542e56b101c649760feb1c05a2c0a9cc7cfb02d623d9b8"
+    },
+    {
+      "path": "11_写作规范与质量审核/检查与评分体系/30W_迁移校验.py",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "7aa7f36034192ba8bc1a3b973212f0f7b98659222c1da6b1a7444d94c8f40c13"
+    },
+    {
+      "path": "11_写作规范与质量审核/检查与评分体系/30万字改编_漏洞修复与验收_2026-10-22.md",
+      "operation": "added",
+      "old_blob": null,
+      "utf8_sha256": "e996d88ecec67ad0be6d9fe9a89b321be7905a1af526a11dad46ee2ddd68fd7f"
+    },
+    {
+      "path": "14_常用指令/常用指令.md",
+      "operation": "modified",
+      "old_blob": "c3626aaf690df4e97c45fd18201bbb6b577f9b28",
+      "utf8_sha256": "35a83357126481ef1ecff7ec41ce17167c7df13d5c677542b198209c18468189"
+    },
+    {
+      "path": "人物资料库/00_索引管理/00_十七位核心人物档案总索引.md",
+      "operation": "modified",
+      "old_blob": "0d7f08077a6989d6951819066cf09707732395d2",
+      "utf8_sha256": "d5b55721f44455501d24634941cced01049c49ae67a12a10fbbb6493e2146581"
+    },
+    {
+      "path": "人物资料库/01_女主/黎栖雾/黎栖雾_完整资料库整合_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "90305c0ea8413fc2fdfdfdb7760251bb57ccd5f7",
+      "utf8_sha256": "828db742048174a6d37680092a3691a1552cdbe5b469678f3ea97c87131634d1"
+    },
+    {
+      "path": "人物资料库/02_男主/周妄生/周妄生_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "aca6df2405cb4ceab91177fc1a86786d2406fa7e",
+      "utf8_sha256": "255236cb904831eaf0287eb2a8d0b41b8265bc80f00615c5226f7b600a8fd546"
+    },
+    {
+      "path": "人物资料库/02_男主/容既白/容既白_唯一整合深化资料库_截至2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "d5401acecded85a54206d36a2fa642177ec3ba14",
+      "utf8_sha256": "a89ef4f12b61a443958a627201e2f2fa8701a248d102c618023b74ea690747f2"
+    },
+    {
+      "path": "人物资料库/02_男主/梁暮寒/梁暮寒_完整人设与深化增量_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "c888ab4f21cd1e5df51e4cfbabf19cf84663bca1",
+      "utf8_sha256": "d7d57683a71f8434d918921f7151cda04c296f72446f6a1430ebb28f33ea2c80"
+    },
+    {
+      "path": "人物资料库/02_男主/段祁舟/段祈舟_正史资料库_截至2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "a7b582797bb2a7f1eb6401d371fdfa554877c24c",
+      "utf8_sha256": "6820ecd5470f132a13be0cae9be6ec9dd4b7679e51a1ba2e5518f7d279ff9f1f"
+    },
+    {
+      "path": "人物资料库/02_男主/江叙澄/江叙澄_当前整合资料库_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "5d2ac270ee313c8dac2e17715e98235324714435",
+      "utf8_sha256": "e3776eaa11d8f843569a65d8905f3faac03a77fea5f8d0e35cc410d82de8fd61"
+    },
+    {
+      "path": "人物资料库/02_男主/沈稷/沈稷_唯一终版人物圣经_全聊天整合资料库.md",
+      "operation": "modified",
+      "old_blob": "f0765230c0f51724aa0188ce4b82f9755cfe21f5",
+      "utf8_sha256": "9fc0f0ce324537d696bc069505d895edf64c1e3f0cf20452fc910997d0c3fa4b"
+    },
+    {
+      "path": "人物资料库/02_男主/祁慎修/祁慎修_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "a61f7715b6da647df4f9e153bd93c5855b2b27d2",
+      "utf8_sha256": "7c00831abdc1fad9f2fae720d8e69163df9d08a14cbf1c697db9da04bd74014a"
+    },
+    {
+      "path": "人物资料库/02_男主/秦照野/秦照野_完整资料库整合_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "e0990715213b09dccece8bbae630bfef9f16a088",
+      "utf8_sha256": "a0e839a10a0e5c69a3e1829d96cbdcde5549936bcb0f77244ce21e07f18998fa"
+    },
+    {
+      "path": "人物资料库/02_男主/裴沉川/裴沉川_唯一终版人物圣经_全聊天整合资料库.md",
+      "operation": "modified",
+      "old_blob": "1887869701ca6e777f6f5237e1db6a7b6af70b0a",
+      "utf8_sha256": "3b88a1644e7305ad1b9d4d3959a2662b4ad741c1012bb0772d97c05b06526ac4"
+    },
+    {
+      "path": "人物资料库/02_男主/许泊言/许泊言_唯一整合人物圣经_含曾用名许聿衡_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "03c600e2a5ba3d068dd619a8c36db914b0aa35a7",
+      "utf8_sha256": "3a00522ecf67b6cb030382976e42147b5aee997fd1978729f3341fe9e0afb4fd"
+    },
+    {
+      "path": "人物资料库/02_男主/谢闻铎/谢闻铎_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "f100bc30e1dcf25292bb278355da40c80efc4830",
+      "utf8_sha256": "30606e27acd70ba6d6949201d0650dc91e2ae2740b8045dd9f2dcdf5fe721342"
+    },
+    {
+      "path": "人物资料库/02_男主/闻淮止/闻惟止_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "acb688a0e5d0351dcd994160a0f29cddf08ea88b",
+      "utf8_sha256": "594930addb57f65b62af88b708de98c8f6d6618446da3dd323f0bdb840947b89"
+    },
+    {
+      "path": "人物资料库/02_男主/陆知衡/陆知衡_完整资料库整合_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "c39efe62b2a5ff72b3f1a6707b024aa749c88573",
+      "utf8_sha256": "4ecc881cb826f4ead8ead29ed7eec6e28385d0b1b5704f503efef38f13e1a1c2"
+    },
+    {
+      "path": "人物资料库/02_男主/霍岑/霍岑_唯一终版人物圣经_全聊天整合资料库.md",
+      "operation": "modified",
+      "old_blob": "2ecbcbf9fd62bbdd948433a34680c6b02f9c1494",
+      "utf8_sha256": "a106af3ed0b435c510be2aaea7377256f91d089fc2baad5674944f6c59a1a96d"
+    },
+    {
+      "path": "人物资料库/02_男主/顾晏深/顾晏深_最终人物母版_含曾用名顾砚秋_2026-10-07.md",
+      "operation": "modified",
+      "old_blob": "82b060ddbf18e6155f3115748ea26fbef4bc5a55",
+      "utf8_sha256": "bbfb8a3ffcfab902898a5baf427871e8f25ed481744fd06c1deda271d3b5ec97"
+    },
+    {
+      "path": "人物资料库/03_核心男性角色/黎长聿/黎长聿_唯一终版人物圣经_全聊天整合资料库.md",
+      "operation": "modified",
+      "old_blob": "5a27ef85b61fea34b0de6082d8a375281146a96c",
+      "utf8_sha256": "6fb8dd520a91da6742c6a604e3421f321ca215a683fb569dcef2dbe2c372436d"
+    },
+    {
+      "path": "人物资料库/04_核心女性角色/程知遥/程知遥_CURRENT人物母版_2026-10-08.md",
+      "operation": "modified",
+      "old_blob": "4c19e71716ba9944f8fe66d0adcc265b68e36e4e",
+      "utf8_sha256": "d87bc02bf1be29347d62af12f8e60f34d2a0865bd1112d22b0096cecb498ef2f"
+    },
+    {
+      "path": "人物资料库/05_重要配角/00_事故与受益链相关配角_CURRENT.md",
+      "operation": "modified",
+      "old_blob": "469a9419e7923d976256058fdd28b54897958d7b",
+      "utf8_sha256": "33db9c1a5661d689ffa5cfda78053c710d45d16c2c2c1c0f82323538ecb37309"
+    },
+    {
+      "path": "小说本质定义_强制锁定_2026-10-11.md",
+      "operation": "modified",
+      "old_blob": "54a5464309348b38e3e24d4aeaf643dd919c03de",
+      "utf8_sha256": "040df32fe35b02fbb9b19e69afb53fd8c7b83f98b244ecc92814fe0814530e08"
+    },
+    {
+      "path": "项目全貌学习报告_2026-10-22.md",
+      "operation": "modified",
+      "old_blob": "860aa5d93773f76d455ad080287c4a02a2d8feb4",
+      "utf8_sha256": "109bdc0a14299a75b0887c1e3c591fe181bfc046149ae81986e5bd03e79d8a95"
+    }
+  ],
+  "archives": [
+    {
+      "path": "06_人物关系与感情体系/HISTORY_30W_2026-10-22/CURRENT/00_十七条爱情线_战场与亲密转折_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4ffaa6c622d2fe102881f73ccb395d5cbab9a69"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/00_新基线_机器数据.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bf86e20f96520fdc6fd9eaa2da3597b07bd234b"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/00_新基线_机器数据_使用说明.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b0c2d5c9185fb0a7a1afbfc60313bf38968e245"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/章节合同/00_全书132章_排场与关系合同_40万字版_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57b3423835767576b7a03f544412ce8871bf01d1"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/章节合同/00_全书440章_逐章钩子与关系合同_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fb2551ed19458b8998d44978d01ed068c01b7c4"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/卷规划/00_十卷阶段章节合同编译_WORKING_2026-10-08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd19ee6ca36be5816dfae1b5ef1663c28cf621af"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/03_Boss链_责任受益与卷级清算_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b397708b0176b3fa3ec48a87a5a28de958baa70e"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/04_440章信息释放与悔恨节点_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c9d30e933a81b475c4a391e1752a7f2d7d1da9"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/根目录原件/00_偏航项目_任务前置执行指令_持续更新.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2f6b26589902ea84a716452c2ff4a2c0ec1ad1a"
+    },
+    {
+      "path": "01_总设定与权威母版/HISTORY_30W_2026-10-22/CURRENT_MASTER/所有人都在为她偏航_V12_FINAL_唯一终版设定文档.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d1acd4f1df892a9565f78b42906105b79c9fd4c"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/祁慎修/祁慎修_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a61f7715b6da647df4f9e153bd93c5855b2b27d2"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/周妄生/周妄生_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aca6df2405cb4ceab91177fc1a86786d2406fa7e"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/沈稷/沈稷_唯一终版人物圣经_全聊天整合资料库.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0765230c0f51724aa0188ce4b82f9755cfe21f5"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/00_索引管理/00_十七位核心人物档案总索引.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d7f08077a6989d6951819066cf09707732395d2"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/04_核心女性角色/程知遥/程知遥_CURRENT人物母版_2026-10-08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c19e71716ba9944f8fe66d0adcc265b68e36e4e"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/许泊言/许泊言_唯一整合人物圣经_含曾用名许聿衡_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03c600e2a5ba3d068dd619a8c36db914b0aa35a7"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/秦照野/秦照野_完整资料库整合_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0990715213b09dccece8bbae630bfef9f16a088"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/霍岑/霍岑_唯一终版人物圣经_全聊天整合资料库.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ecbcbf9fd62bbdd948433a34680c6b02f9c1494"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/裴沉川/裴沉川_唯一终版人物圣经_全聊天整合资料库.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1887869701ca6e777f6f5237e1db6a7b6af70b0a"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/陆知衡/陆知衡_完整资料库整合_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c39efe62b2a5ff72b3f1a6707b024aa749c88573"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/段祁舟/段祈舟_正史资料库_截至2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b582797bb2a7f1eb6401d371fdfa554877c24c"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/顾晏深/顾晏深_最终人物母版_含曾用名顾砚秋_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82b060ddbf18e6155f3115748ea26fbef4bc5a55"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/03_核心男性角色/黎长聿/黎长聿_唯一终版人物圣经_全聊天整合资料库.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a27ef85b61fea34b0de6082d8a375281146a96c"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/01_女主/黎栖雾/黎栖雾_完整资料库整合_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90305c0ea8413fc2fdfdfdb7760251bb57ccd5f7"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/闻淮止/闻惟止_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acb688a0e5d0351dcd994160a0f29cddf08ea88b"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/江叙澄/江叙澄_当前整合资料库_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d2ac270ee313c8dac2e17715e98235324714435"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/梁暮寒/梁暮寒_完整人设与深化增量_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c888ab4f21cd1e5df51e4cfbabf19cf84663bca1"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/05_重要配角/00_事故与受益链相关配角_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "469a9419e7923d976256058fdd28b54897958d7b"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/容既白/容既白_唯一整合深化资料库_截至2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5401acecded85a54206d36a2fa642177ec3ba14"
+    },
+    {
+      "path": "人物资料库/HISTORY_30W_2026-10-22/02_男主/谢闻铎/谢闻铎_唯一终版人物圣经_全聊天整合资料库_2026-10-07.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f100bc30e1dcf25292bb278355da40c80efc4830"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/六年前事故_全项目统一档案_2026-10-11.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b8dd91be7240249c7f3f488d77bf10379e94a03"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/05_事实信息关系组织账/V12正文运行态_事实真值与知识图谱_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c98682ccc45b752ba9a5c14bb31d3ee3636d3ab2"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/05_事实信息关系组织账/V12正文运行态_关系历史底账与当前权限_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a79d5709b4499f39df81fc72d7b5214d8a3e6c5"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/05_事实信息关系组织账/V12正文运行态_情报图与可见度总账_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "464568972d6e5514f2abbbf2f2919415e24f8d51"
+    },
+    {
+      "path": "04_组织势力与社会结构/HISTORY_30W_2026-10-22/CURRENT/00_曜京圈层势力总棋盘_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "329e7e8d54e1427b821e91401890bc903caa3270"
+    },
+    {
+      "path": "05_偏航系统与协议/HISTORY_30W_2026-10-22/CURRENT/00_偏航协议生产应用_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcdc6be060e5e96d4a14b58af4e17d9832baa2ed"
+    },
+    {
+      "path": "07_剧情规划与章节合同/HISTORY_30W_2026-10-22/总剧情规划/01_偏航事实驱动剧情重构_WORKING_2026-10-08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20607d54aad304662c21718645decc7645733f84"
+    },
+    {
+      "path": "08_正式正文与章节状态/HISTORY_30W_2026-10-22/正文索引/V12正文运行态_正式正文索引与产物命名_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23b29c82941afd561a3b9ac5f7a65eb64e183646"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/04_快照与世界时钟/V12正文运行态_当前状态快照_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9a9c010344b3d5310531c1a628ba57886cbe436"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/03_事务与提交日志/V12正文运行态_事务提交日志_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bd49ab91344bca49ca88521ad091b81f1ee5161"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/00_CURRENT控制层/所有人都在为她偏航_V12正文前最终生产封板_V5_唯一执行入口.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c82daaf5fdcf587f1dd7fccfd3f5000227772a33"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/06_事件过程资源舆论账/V12正文运行态_世界事件池_分支_余波账_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3a531361b8a13cdbb0e0db85fd6ca4a3cdfc4d8"
+    },
+    {
+      "path": "09_V12运行态与事务控制/HISTORY_30W_2026-10-22/07_开放问题与冲突/V12正文运行态_开放问题与冲突登记_V5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c354e68b717485c9043764f9aa28e4e903dd321"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/01_偏航项目_CANON_CURRENT权威索引.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccf2fc6b70e575fb6e9d49480c39193d3f99986b"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/00_偏航项目_总索引_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49b78b97d4374fa604501b55ce295bbdadec1b85"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/03_偏航项目_最终项目使用说明_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f75abf8492f3d8e7d2bd52a5c4f6e396608ddaea"
+    },
+    {
+      "path": "10_正文启动包与生产接口/HISTORY_30W_2026-10-22/当前章节加载包/00_新故事线第一章_启动合同_CURRENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bd1dfd91f19433416520807e8a53a558742ac55"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/根目录原件/小说本质定义_强制锁定_2026-10-11.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54a5464309348b38e3e24d4aeaf643dd919c03de"
+    },
+    {
+      "path": "00_总入口与导航/HISTORY_30W_2026-10-22/根目录原件/项目全貌学习报告_2026-10-22.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "860aa5d93773f76d455ad080287c4a02a2d8feb4"
+    },
+    {
+      "path": "14_常用指令/HISTORY_30W_2026-10-22/常用指令.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3626aaf690df4e97c45fd18201bbb6b577f9b28"
+    }
+  ],
+  "protected_count": 268,
+  "self_entry": "11_写作规范与质量审核/检查与评分体系/30W_改动清单.json"
+}
